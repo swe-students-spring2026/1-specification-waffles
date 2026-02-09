@@ -8,15 +8,21 @@ A little exercise to get started with the specification phase of the software de
 2. Ermuun Bayartsaikhan, eb4500 - "https://github.com/ermuun0930"
 3. Laura Liu, yl10127 - "https://github.com/lauraliu518"
 4. Luke Sribhud, ls6540 - "https://github.com/lukeysan"
-5. Alan Wu aw4630 - ""
+5. Alan Wu aw4630 - "https://github.com/aw4630"
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+**Stakeholder #1**: Isaac Tu (NYU student, goes to the gym a lot)
+
+I interviewed my friend Isaac Tu about his experience using NYU gyms. He goes to the gym around 4–5 times a week, mostly 404, sometimes Palladium.
+
+He was saying that the gym is always way busier than he expects, especially at night around 7-8 PM. A lot of the time every bench or squat rack is taken, so his workout ends up being 90 minutes long when it could really be 60 minutes long. Sometimes, he has to cut the workout short because he has something else to do after the gym. He said it’s really annoying when you’re already tired and just want to get a quick workout in.
+
+He also mentioned that there’s no good way to know how busy a gym is beforehand. Sometimes he checks Google Maps, but it’s not accurate and doesn’t really reflect what’s going on inside the gym. He said if there was an app that showed real-time busyness, he’d actually use it before deciding which gym to go to. He also is interested in the social aspect of the gym and thinks it would be cool to be able to see which friends are in the gym at any time.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+The vision for this product is to create a mobile app for NYU students that helps them decide when and where to work out by showing how busy each NYU gym is in real time. By using check-ins and check-outs, the app keeps gym busyness accurate while also creating a social space where students can post workouts, interact with friends, and discover new gym buddies with similar schedules. The goal is to make going to the gym more efficient, social, and motivating for NYU students.
 
 ## User Requirements
 
