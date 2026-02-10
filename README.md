@@ -26,42 +26,46 @@ The vision for this product is to create a mobile app for NYU students that help
 
 ## User Requirements
 
-1. As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.
+- As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.
 
-2. As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
+- As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
 
-3. As a student, I want to log in using NYU SSO so I feel safe.
+- As a student, I want to log in using NYU SSO, so I know only other NYU students can make an account on this app.
 
-4. As a student, I want to control who can view my check-in information, so that I feel safe on the app.
+- As a student, I want to control who can view my check-in information, so that I feel safe on the app.
 
-5. As a student, I want to delete my account, so that I can leave the platform.
+- As a student, I want to delete my account, so that I can leave the platform.
 
-6. As a student, I want to quickly find currently open gyms of my interest so I can work out when I want to.
+- As a student, I want to quickly find currently open gyms of my interest so I can work out when I want to.
 
-7. As a student, I want to see who is currently checked in at a gym, so I can know how busy it is and who is there.
+- As a student, I want to see who is currently checked in at a gym, so I can know how busy it is and who is there.
 
-8. As a student, I want to see how long I worked out, so I can track my gym activity.
+- As a student, I want to see how long I worked out, so I can track my gym activity.
 
-9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!  
+- As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!
 
-10. As a student, I want to view the address of gyms so I know where they are located.
+- As a student, I want to view the address of gyms so I know where they are located.
 
+- As a student, I want to filter gyms by "open now", so I don't waste time checking closed gyms.
+
+- As a student, I want to see when a gym is usually busiest so I can avoid peak times.
+
+- As a student, I want to see the number of people currently checked in, so I can judge crowdness more accurately.
 
 ## Activity Diagrams
 
-User Story 1: As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.  
+User Story 1: As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.
 
 ![Crowd Meter](src/Crowd.png)
 
-User Story 2: As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.  
+User Story 2: As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
 
-![Check In](src/Check-In.png)  
+![Check In](src/Check-In.png)
 
-User Story 3: As a student, I want to log in using NYU SSO so I feel safe.  
+User Story 3: As a student, I want to log in using NYU SSO so I feel safe.
 
-![Authenticate Using NYU SSO](src/Auth.png) 
+![Authenticate Using NYU SSO](src/Auth.png)
 
 ## Clickable Prototype
 
 https://www.figma.com/design/lNsnbB75c69poEKuYRvzVL/Waffles---Wireframes?node-id=22-864&t=qWbTmDmho1jzPxDO-0
-
