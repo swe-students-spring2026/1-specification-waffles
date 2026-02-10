@@ -42,26 +42,24 @@ The vision for this product is to create a mobile app for NYU students that help
 
 8. As a student, I want to see how long I worked out, so I can track my gym activity.
 
-9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!  
+9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!
 
 10. As a student, I want to view the address of gyms so I know where they are located.
 
-
 ## Activity Diagrams
 
-User Story 1: As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.  
+User Story 1: As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.
 
 ![Crowd Meter](src/Crowd.png)
 
-User Story 2: As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.  
+User Story 2: As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
 
-![Check In](src/Check-In.png)  
+![Check In](src/Check-In.png)
 
-User Story 3: As a student, I want to log in using NYU SSO so I feel safe.  
+User Story 3: As a student, I want to log in using NYU SSO so I feel safe.
 
-![Authenticate Using NYU SSO](src/Auth.png) 
+![Authenticate Using NYU SSO](src/Auth.png)
 
 ## Clickable Prototype
 
 https://www.figma.com/design/lNsnbB75c69poEKuYRvzVL/Waffles---Wireframes?node-id=22-864&t=qWbTmDmho1jzPxDO-0
-
