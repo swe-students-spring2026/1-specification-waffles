@@ -12,7 +12,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-**Stakeholder #1**: Isaac Tu (NYU student, goes to the gym a lot)
+**Stakeholder #1**: Isaac Tu (NYU student, goes to the gym a lot). Issac represents the student users.
 
 I interviewed my friend Isaac Tu about his experience using NYU gyms. He goes to the gym around 4–5 times a week, mostly 404, sometimes Palladium.
 
@@ -22,7 +22,8 @@ He also mentioned that there’s no good way to know how busy a gym is beforehan
 
 ## Product Vision Statement
 
-The vision for this product is to create a mobile app for NYU students that helps them decide when and where to work out by showing how busy each NYU gym is in real time. By using check-ins and check-outs and filters, the app keeps gym busyness and other infomation accurate so students find the gym that best sort their needs. The goal is to make going to the gym more efficient, accessible, and motivating for NYU students.
+The vision for this product is to create a mobile app for NYU students that shows real-time gym busyness using check-ins, check-outs, and filters, helping them decide when and where to work out in a way that’s more efficient, accessible, and motivating.
+
 
 ## User Requirements
 
@@ -68,4 +69,4 @@ User Story 3: As a student, I want to log in using NYU SSO so I feel safe.
 
 ## Clickable Prototype
 
-https://www.figma.com/design/lNsnbB75c69poEKuYRvzVL/Waffles---Wireframes?node-id=22-864&t=qWbTmDmho1jzPxDO-0
+[Waffles Prototype Link](https://www.figma.com/proto/lNsnbB75c69poEKuYRvzVL/Waffles---Wireframes?node-id=33-517&t=GYbSA5nic6uMtbG4-1&scaling=scale-down&content-scaling=fixed&page-id=22%3A162&starting-point-node-id=33%3A517)
