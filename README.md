@@ -32,15 +32,15 @@ The vision for this product is to create a mobile app for NYU students that help
 
 3. As a student, I want to log in using NYU SSO so I feel safe.
 
-4. As a student, I want to control who can view my profile, so that I feel safe knowing posting on the app.
+4. As a student, I want to control who can view my check-in information, so that I feel safe on the app.
 
 5. As a student, I want to delete my account, so that I can leave the platform.
 
 6. As a student, I want to quickly find currently open gyms of my interest so I can work out when I want to.
 
-7. As a student, I want to view only gyms in my campus so I meet students also in my campus
+7. As a student, I want to see who is currently checked in at a gym, so I can know how busy it is and who is there.
 
-8. As a student, I want to pan around the map to explore all gyms on campus.
+8. As a student, I want to see how long I worked out, so I can track my gym activity.
 
 9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!  
 
