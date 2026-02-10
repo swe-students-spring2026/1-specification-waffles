@@ -22,7 +22,7 @@ He also mentioned that there’s no good way to know how busy a gym is beforehan
 
 ## Product Vision Statement
 
-The vision for this product is to create a mobile app for NYU students that helps them decide when and where to work out by showing how busy each NYU gym is in real time. By using check-ins and check-outs, the app keeps gym busyness accurate while also creating a social space where students can post workouts, interact with friends, and discover new gym buddies with similar schedules. The goal is to make going to the gym more efficient, social, and motivating for NYU students.
+The vision for this product is to create a mobile app for NYU students that helps them decide when and where to work out by showing how busy each NYU gym is in real time. By using check-ins and check-outs and filters, the app keeps gym busyness and other infomation accurate so students find the gym that best sort their needs. The goal is to make going to the gym more efficient, accessible, and motivating for NYU students.
 
 ## User Requirements
 
@@ -30,37 +30,38 @@ The vision for this product is to create a mobile app for NYU students that help
 
 2. As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
 
-3. As a student, I want to register for the an account so I start using the app.
+3. As a student, I want to log in using NYU SSO so I feel safe.
 
-4. As a student, I want to update my bio so that people know how much weight I can bench.
+4. As a student, I want to control who can view my profile, so that I feel safe knowing posting on the app.
 
-5. As a student, I want to control who can view my profile, so that I feel safe knowing posting on the app.
+5. As a student, I want to delete my account, so that I can leave the platform.
 
-6. As a student, I want to delete my account, so that I can leave the platform.
+6. As a student, I want to quickly find currently open gyms of my interest so I can work out when I want to.
 
-7. As a student, I want to accept a friend request, so that they can see my posts and I can see theirs.
+7. As a student, I want to view only gyms in my campus so I meet students also in my campus
 
-8. As a student, I want to block another user so they can't interact with me.
+8. As a student, I want to pan around the map to explore all gyms on campus.
 
-9. As a student, I want to comment on my friend's post, so that I can react to their workout.
-10. As a student, I want to see a feed of posts from other gym-goers, so that I feel more connected to the NYU gym community.
+9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!  
 
-11. As a student, I want to filter my feed to view either only my friends' posts or posts from the broader gym community.
+10. As a student, I want to view the address of gyms so I know where they are located.
 
-12. As a student, I want to discover new people to work out with so that going to the gym feels more social and motivating.
-
-13. As a student, I want to make some new friends who are also love to work out as me.
-
-14. As a student, I want to make new friends (gym-buddies) with the same gym-schedule.
-
-15. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!
 
 ## Activity Diagrams
 
-![Authenticate Using NYU SSO](src/Auth.png)
-![Check In](src/Check-In.png)
+User Story 1: As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.  
+
 ![Crowd Meter](src/Crowd.png)
+
+User Story 2: As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.  
+
+![Check In](src/Check-In.png)  
+
+User Story 3: As a student, I want to log in using NYU SSO so I feel safe.  
+
+![Authenticate Using NYU SSO](src/Auth.png) 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/lNsnbB75c69poEKuYRvzVL/Waffles---Wireframes?node-id=22-864&t=qWbTmDmho1jzPxDO-0
+
