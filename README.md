@@ -42,9 +42,15 @@ The vision for this product is to create a mobile app for NYU students that help
 
 - As a student, I want to see how long I worked out, so I can track my gym activity.
 
-9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!
+- As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!
 
-10. As a student, I want to view the address of gyms so I know where they are located.
+- As a student, I want to view the address of gyms so I know where they are located.
+
+- As a student, I want to post my workouts or gym check-ins, so I can share my progress with others.
+
+- As a student, I want to see peak hours highlighted, so I can avoid overcrowded times.
+
+- As a student, I want to see historical busyness trends for each gym, so I can plan my workouts at less crowded times.
 
 ## Activity Diagrams
 
