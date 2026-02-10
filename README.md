@@ -57,7 +57,9 @@ The vision for this product is to create a mobile app for NYU students that help
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Authenticate Using NYU SSO](src/Auth_UML.png)
+![Check In](src/Check-In_UML.png)
+![Crowd Meter](src/Crowd-Meter_UML.png)
 
 ## Clickable Prototype
 
