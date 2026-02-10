@@ -26,21 +26,21 @@ The vision for this product is to create a mobile app for NYU students that help
 
 ## User Requirements
 
-1. As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.
+- As a student, I want to see how busy each NYU gym is, so I can decide which gym to go to.
 
-2. As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
+- As a student, I want to check in when I enter a gym and check out when I leave, so my gym usage is recorded and gym busyness stays accurate.
 
-3. As a student, I want to log in using NYU SSO so I feel safe.
+- As a student, I want to log in using NYU SSO, so I know only other NYU students can make an account on this app.
 
-4. As a student, I want to control who can view my check-in information, so that I feel safe on the app.
+- As a student, I want to control who can view my check-in information, so that I feel safe on the app.
 
-5. As a student, I want to delete my account, so that I can leave the platform.
+- As a student, I want to delete my account, so that I can leave the platform.
 
-6. As a student, I want to quickly find currently open gyms of my interest so I can work out when I want to.
+- As a student, I want to quickly find currently open gyms of my interest so I can work out when I want to.
 
-7. As a student, I want to see who is currently checked in at a gym, so I can know how busy it is and who is there.
+- As a student, I want to see who is currently checked in at a gym, so I can know how busy it is and who is there.
 
-8. As a student, I want to see how long I worked out, so I can track my gym activity.
+- As a student, I want to see how long I worked out, so I can track my gym activity.
 
 9. As a student, I want to use this mobile app to motivate myself more and engage more with the NYU gym rats!
 
